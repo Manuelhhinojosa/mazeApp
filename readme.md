@@ -14,7 +14,7 @@ In this project, a dynamic maze is created using the Matter.js physics engine to
 - Matter.js
 - Netlify
 
-🔗 **GitHub Repository**: [Maze Game GitHub](https://github.com/Manuelhhinojosa/mazeApp)  
+
 🌐 **Live Demo**: [Maze Game](https://mazemhh.netlify.app)
 
 Made with ❤️ by [Manuel H Hinojosa](https://manuelhinojosa.netlify.app).
